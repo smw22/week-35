@@ -21,12 +21,12 @@ npm install firebase + npm install firebase-tools
 firebase login (bash)
 open firebase console and "create a new project" + "create a new database"
 Change firebase Rules (tab) - the date
-Made placeholder collection (data)
+Made placeholder collection, movies in this case (data)
 imported firebase firebaseConfig (Step Firebase)
 imported firebase functions (addDoc, collection, onSnapshot...)
 imported vue functions (ref, onMounted)
 Created input field to add a new movie
-Created a list of movies
+Created a list of movies 
 Created a function to retrieve a new movie to the list
 Created a function to add a new movie to the list
 Created a function to delete a movie from the list
